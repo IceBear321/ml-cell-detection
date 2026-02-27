@@ -1,0 +1,31 @@
+# Core dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+scikit-image>=0.19.0
+
+# Machine learning models
+xgboost>=1.5.0
+
+# Image processing
+pillow>=9.0.0
+imageio>=2.9.0
+tifffile>=2021.11.2
+
+# CZI file support
+czifile>=2019.7.2
+aicspylibczi>=3.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data handling
+pandas>=1.3.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Optional: 3D visualization
+# mayavi>=4.7.0
+# pyvista>=0.32.0
